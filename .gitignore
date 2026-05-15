@@ -1,0 +1,21 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+env/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
